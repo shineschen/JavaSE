@@ -1,4 +1,4 @@
-package com.learn.bean;
+package test_demo.bean;
 
 import java.util.ArrayList;
 //科室类

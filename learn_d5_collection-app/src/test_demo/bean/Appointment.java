@@ -1,6 +1,5 @@
-package com.learn.bean;
+package test_demo.bean;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 //预约类

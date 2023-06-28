@@ -1,4 +1,4 @@
-package com.learn.bean;
+package test_demo.bean;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
