@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 注释：以上抬头申明必须有且必须在第一行-->
+<!-- 根标签只能有一个-->
+<users>
+    <user id="1">
+        <name>泰式SPA</name>
+        <money>498</money>
+        <time>120S</time>
+        <data> 5 &gt;3 &amp; &amp;9 &lt;10 </data>
+    </user>
+    <user id="2">
+        <name>中式推拿</name>
+        <money>298</money>
+        <time>60S</time>
+        <data>
+            <![CDATA[
+                3>2 && 5<6
+            ]]>
+        </data>
+    </user>
+
+</users>

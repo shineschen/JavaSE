@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaSE.iml" filepath="$PROJECT_DIR$/.idea/JavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d10_net/learn_d10_net.iml" filepath="$PROJECT_DIR$/learn_d10_net/learn_d10_net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d11junit/learn_d11junit.iml" filepath="$PROJECT_DIR$/learn_d11junit/learn_d11junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d1_oop-demo/learn_d1_oop-demo.iml" filepath="$PROJECT_DIR$/learn_d1_oop-demo/learn_d1_oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d2_oop-demo/learn_d2_oop-demo.iml" filepath="$PROJECT_DIR$/learn_d2_oop-demo/learn_d2_oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d3_api-lambda-app/learn_d3_api-lambda-app.iml" filepath="$PROJECT_DIR$/learn_d3_api-lambda-app/learn_d3_api-lambda-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d5_collection-app/learn_d5_collection-app.iml" filepath="$PROJECT_DIR$/learn_d5_collection-app/learn_d5_collection-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d6_file-io/learn_d6_file-io.iml" filepath="$PROJECT_DIR$/learn_d6_file-io/learn_d6_file-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d7_properties-xml-log/learn_d7_properties-xml-log.iml" filepath="$PROJECT_DIR$/learn_d7_properties-xml-log/learn_d7_properties-xml-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d8_log/learn_d8_log.iml" filepath="$PROJECT_DIR$/learn_d8_log/learn_d8_log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn_d9_thread/learn_d9_thread.iml" filepath="$PROJECT_DIR$/learn_d9_thread/learn_d9_thread.iml" />
+    </modules>
+  </component>
+</project>

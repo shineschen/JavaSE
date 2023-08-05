@@ -1,11 +1,5 @@
 package com.learn_collection.collection_game;
 
-/**
- * 卡牌类
- * num :牌值
- * color： 花色
- * size : 大小规则
- */
 public class Card {
     private String number;
     private String color;
@@ -46,6 +40,6 @@ public class Card {
 
     @Override
     public String toString() {
-        return number  + color;
+        return number +color  ;
     }
 }

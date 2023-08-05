@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test_demo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/learn_d5_collection-app/out/production/learn_d5_collection-app/test_demo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
